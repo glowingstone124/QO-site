@@ -1,5 +1,6 @@
 ---
 title: Quantum Original OPEN BETA现已开启
+excerpt: 具体信息 ->
 ---
 欢迎加入Quantum Original OPEN BETA!
 #测试信息
