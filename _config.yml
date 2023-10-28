@@ -4,11 +4,11 @@
 
 # Site
 title: Quantum Original
-subtitle: ''
+subtitle: 'Official Website'
 description: ''
 keywords:
 author: glowingstone
-language: zh-cn
+language: en
 timezone: ''
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
